@@ -1,1 +1,3 @@
 # tes_fork
+
+# buatlah tugas 1 .....
